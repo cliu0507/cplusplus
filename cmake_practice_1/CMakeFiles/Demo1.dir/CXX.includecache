@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/cliu/Github_cliu/cplusplus/cmake_practice_1/main.cpp
+iostream
+-
+twoSum.h
+/Users/cliu/Github_cliu/cplusplus/cmake_practice_1/twoSum.h
+
+/Users/cliu/Github_cliu/cplusplus/cmake_practice_1/twoSum.cpp
+
+/Users/cliu/Github_cliu/cplusplus/cmake_practice_1/twoSum.h
+iostream
+-
+

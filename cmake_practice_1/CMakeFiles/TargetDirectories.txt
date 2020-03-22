@@ -1,0 +1,3 @@
+/Users/cliu/Github_cliu/cplusplus/cmake_practice_1/CMakeFiles/rebuild_cache.dir
+/Users/cliu/Github_cliu/cplusplus/cmake_practice_1/CMakeFiles/edit_cache.dir
+/Users/cliu/Github_cliu/cplusplus/cmake_practice_1/CMakeFiles/Demo1.dir

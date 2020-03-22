@@ -1,0 +1,6 @@
+/Users/cliu/Github_cliu/cplusplus/cmake_practice_2/CMakeFiles/rebuild_cache.dir
+/Users/cliu/Github_cliu/cplusplus/cmake_practice_2/CMakeFiles/edit_cache.dir
+/Users/cliu/Github_cliu/cplusplus/cmake_practice_2/CMakeFiles/Demo.dir
+/Users/cliu/Github_cliu/cplusplus/cmake_practice_2/subdir/CMakeFiles/rebuild_cache.dir
+/Users/cliu/Github_cliu/cplusplus/cmake_practice_2/subdir/CMakeFiles/edit_cache.dir
+/Users/cliu/Github_cliu/cplusplus/cmake_practice_2/subdir/CMakeFiles/exampleLib.dir
